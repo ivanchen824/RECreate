@@ -1153,7 +1153,7 @@
       "lat": 37.725545,
       "lng": -122.393722,
       "phone": "(415) 288-2807",
-      "season": "Aug 18 – Sep 26",
+      "season": "Sep 29 – Dec 12",
       "desc": "Another hidden pool gem, MLK Pool features a 25-yard x 25-meter pool and a separate wading pool for tots.",
       "programs": [
         "lap",
@@ -1165,10 +1165,6 @@
         "other"
       ],
       "scheduleUrls": [
-        {
-          "label": "MLK Pool_Fall2026_pt1_Aug 18_Sep26",
-          "url": "https://sfrecpark.org/DocumentCenter/View/29802"
-        },
         {
           "label": "MLK Pool_Fall2026_pt2_Sep29_Dec 12",
           "url": "https://sfrecpark.org/DocumentCenter/View/30210"
@@ -1202,16 +1198,6 @@
             "kind": "lap",
             "start": 750,
             "end": 930
-          },
-          {
-            "kind": "lap",
-            "start": 930,
-            "end": 1050
-          },
-          {
-            "kind": "lessons",
-            "start": 930,
-            "end": 1080
           },
           {
             "kind": "other",
@@ -1266,16 +1252,6 @@
             "kind": "lap",
             "start": 750,
             "end": 930
-          },
-          {
-            "kind": "lap",
-            "start": 930,
-            "end": 1050
-          },
-          {
-            "kind": "lessons",
-            "start": 930,
-            "end": 1080
           },
           {
             "kind": "other",
@@ -1322,16 +1298,6 @@
             "end": 930
           },
           {
-            "kind": "lap",
-            "start": 930,
-            "end": 1050
-          },
-          {
-            "kind": "lessons",
-            "start": 930,
-            "end": 1080
-          },
-          {
             "kind": "other",
             "label": "Bayview Safety Swim",
             "start": 930,
@@ -1384,16 +1350,6 @@
             "kind": "lap",
             "start": 750,
             "end": 930
-          },
-          {
-            "kind": "lap",
-            "start": 930,
-            "end": 1050
-          },
-          {
-            "kind": "lessons",
-            "start": 930,
-            "end": 1080
           },
           {
             "kind": "other",
@@ -1442,30 +1398,6 @@
         ]
       ],
       "closures": [
-        {
-          "from": "2026-08-22",
-          "to": "2026-08-22",
-          "reason": "training"
-        },
-        {
-          "from": "2026-08-27",
-          "to": "2026-08-27",
-          "start": 750,
-          "end": 930,
-          "reason": null
-        },
-        {
-          "from": "2026-09-07",
-          "to": "2026-09-07",
-          "reason": "holiday"
-        },
-        {
-          "from": "2026-09-24",
-          "to": "2026-09-24",
-          "start": 750,
-          "end": 930,
-          "reason": null
-        },
         {
           "from": "2026-10-22",
           "to": "2026-10-22",
@@ -2507,6 +2439,10 @@
         {
           "label": "Sava_Pool_Fall2_2026___Aug29toDec12",
           "url": "https://sfrecpark.org/DocumentCenter/View/30037"
+        },
+        {
+          "label": "Sava_Pool_Fall3_2026_November3toDec1 (2)",
+          "url": "https://sfrecpark.org/DocumentCenter/View/30374"
         }
       ],
       "sessions": [
@@ -2566,9 +2502,19 @@
             "end": 930
           },
           {
+            "kind": "family",
+            "start": 870,
+            "end": 1050
+          },
+          {
             "kind": "lap",
             "start": 870,
             "end": 930
+          },
+          {
+            "kind": "lap",
+            "start": 870,
+            "end": 1050
           },
           {
             "kind": "lessons",
@@ -2640,9 +2586,29 @@
             "end": 930
           },
           {
+            "kind": "lap",
+            "start": 720,
+            "end": 900
+          },
+          {
+            "kind": "family",
+            "start": 930,
+            "end": 1020
+          },
+          {
+            "kind": "lap",
+            "start": 930,
+            "end": 1020
+          },
+          {
             "kind": "lessons",
             "start": 960,
             "end": 1050
+          },
+          {
+            "kind": "family",
+            "start": 1050,
+            "end": 1170
           },
           {
             "kind": "family",
@@ -2845,5 +2811,5 @@
       }
     ]
   },
-  "fetchedAt": "2026-10-26T20:19:24.981Z"
+  "fetchedAt": "2026-11-02T23:01:21.414Z"
 }
